@@ -1,1 +1,1 @@
-include ':main_elements', ':layout_land', ':visual', ':knyazeva', ':knyazeva_linear', ':knyazeva_relative'
+include ':main_elements', ':layout_land', ':visual', ':knyazeva', ':knyazeva_linear', ':knyazeva_relative', ':knyazeva_table', ':knyazeva_linear_new', ':myapplication', ':knyazeva_frame', ':knyazeva_using_resources'
